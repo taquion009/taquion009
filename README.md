@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi there, I'm Rodrigo Milesi 
 
-<!--
-**taquion009/taquion009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   code: [Javascript, Typescript, HTML, CSS, Nodejs],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux", "Next.js"],
+         css: ["Materia.ui", "SASS", "StyleComponent"],
+         others: ["GIT", "NPM"]
+      }, 
+   },
+   currentOccupation: ["Desarrollando, abierto a oportunidades de trabajo],
+};
+```
