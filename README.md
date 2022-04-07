@@ -10,6 +10,7 @@ const aboutMe = {
          others: ["GIT", "NPM"]
       }, 
    },
+   iWantToLearn:["React Native", "Chakra UI", "Python"],
    currentOccupation: ["Desarrollando, abierto a oportunidades de trabajo],
 };
 ```
