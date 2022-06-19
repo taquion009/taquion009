@@ -11,6 +11,6 @@ const aboutMe = {
       }, 
    },
    iWantToLearn:["React Native", "Chakra UI", "Python"],
-   currentOccupation: ["Desarrollando, Aprendiendo],
+   currentOccupation: ["Desarrollando", "Aprendiendo"],
 };
 ```
