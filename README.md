@@ -7,10 +7,13 @@ const aboutMe = {
       frontEnd: {
          js: ["React", "Redux", "Next.js"],
          css: ["Materia.ui", "SASS", "StyleComponent"],
-         others: ["GIT", "NPM"]
-      }, 
+         others: ["GIT", "NPM"],
+      },
+      backend: {
+         python: ["Flask", "Pygame"],
+         js: ["Nodejs"],
    },
-   iWantToLearn:["React Native", "Chakra UI", "Python"],
+   iWantToLearn:["React Native", "Chakra UI", "TensorFlow", "sql"],
    currentOccupation: ["Desarrollando", "Aprendiendo"],
 };
 ```
